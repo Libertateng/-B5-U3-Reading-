@@ -1,0 +1,9 @@
+國中英文逐句跟讀網站｜使用說明
+
+1. 將 index.html 和 lessons.json 上傳到 GitHub 公開儲存庫根目錄。
+2. 在 Settings > Pages 啟用 Deploy from a branch、main、/(root)。
+3. 取得固定網址 https://帳號.github.io/儲存庫名稱/ ，傳給學生。
+4. 老師在電腦上開啟 teacher.html，匯入 lessons.json，編輯或新增課次，按下載 lessons.json。
+5. 把新的 lessons.json 上傳覆蓋 GitHub 上的同名檔案。學生重新整理網頁即可看到新課次（發布可能稍有延遲）。
+6. 每次更新都備份 lessons.json；老師編輯器不用上傳公開網站。
+注意：瀏覽器語音種類因裝置而異。照片課文僅為初步辨識，正式發給學生前請逐句校對。
